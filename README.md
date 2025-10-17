@@ -56,8 +56,6 @@ python app.py
 ## Contributors
 1.Vishal Malyan
 2.Deepak Verma
-3.Sushant Soni
-4.Vidhi Gupta
 
 ### Contributing📑
 We welcome contributions! If you have ideas for new features, improvements, or bug fixes, 
@@ -70,4 +68,4 @@ This project is licensed under the MIT License.
 Special thanks to the developers and contributors of OpenCV, dlib, and other open-source libraries that made this project possible.
 
 ### Contact📧
-For questions or feedback, feel free to reach out to us at contact vishalmalyan.gdsc@gmail.com
+For questions or feedback, feel free to reach out to us at contact deepakverma07858@gmail.com
